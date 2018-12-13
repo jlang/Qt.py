@@ -1,1 +1,1 @@
-git+git://github.com/mottosso/Qt.py.git
+-e .
